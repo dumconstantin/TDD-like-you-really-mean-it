@@ -1,0 +1,28 @@
+XXX_a1_YYY_[:b1, :a2]_ZZZ
+XXX_a2_YYY_[:a1, :a3]_ZZZ
+XXX_a3_YYY_[:a2, :a4]_ZZZ
+XXX_a4_YYY_[:a3, :a5]_ZZZ
+XXX_a5_YYY_[:a4, :b5]_ZZZ
+XXX_b5_YYY_[:a5, :c5]_ZZZ
+XXX_c5_YYY_[:b5, :d5]_ZZZ
+XXX_d5_YYY_[:c5, :e5]_ZZZ
+XXX_e5_YYY_[:d5, :e4, :f5]_ZZZ
+XXX_f5_YYY_[:e5, :g5]_ZZZ
+XXX_g5_YYY_[:f5, :h5]_ZZZ
+XXX_h5_YYY_[:g5, :i5]_ZZZ
+XXX_b1_YYY_[:a1, :c1]_ZZZ
+XXX_c1_YYY_[:b1, :d1]_ZZZ
+XXX_d1_YYY_[:c1, :e1]_ZZZ
+XXX_e1_YYY_[:d1, :e2, :f1]_ZZZ
+XXX_f1_YYY_[:e1, :g1]_ZZZ
+XXX_g1_YYY_[:f1, :h1]_ZZZ
+XXX_h1_YYY_[:g1, :i1]_ZZZ
+XXX_i1_YYY_[:h1, :i2]_ZZZ
+XXX_i2_YYY_[:i1, :i3]_ZZZ
+XXX_i3_YYY_[:i2, :i4]_ZZZ
+XXX_i4_YYY_[:i3, :i5]_ZZZ
+XXX_i5_YYY_[:i4, :h5]_ZZZ
+XXX_e2_YYY_[:e1, :e3]_ZZZ
+XXX_e3_YYY_[:e2, :e4]_ZZZ
+XXX_e4_YYY_[:e3, :e5]_ZZZ
+
