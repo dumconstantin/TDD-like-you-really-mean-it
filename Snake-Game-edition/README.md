@@ -1,4 +1,4 @@
-## TDD like you really mean it - Pacman edition
+## TDD like you really mean it - Snake Game edition
 
 **"TDD like you really mean it"** is a rather extreme coding technique that reveals the true nature of TDD.
 
